@@ -11,6 +11,10 @@
       "name": "黑木耳",
       "detail": "https://heimuer.tv"
     },
+    "xinlang": {
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/at/xml/",
+      "name": "新浪资源"
+    },    
     "ruyi": {
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
       "name": "如意资源"
